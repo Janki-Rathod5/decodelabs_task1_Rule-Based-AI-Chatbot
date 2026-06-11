@@ -60,7 +60,7 @@ Rule-Based-AI-Chatbot/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Jankki-Rathod5/Rule-Based-AI-Chatbot.git
+git clone https://github.com/YOUR_USERNAME/Rule-Based-AI-Chatbot.git
 ```
 
 ### Open the project folder
@@ -82,6 +82,18 @@ py chatbot.py
 ```
 
 ---
+
+## 📸 Screenshots
+
+### Chatbot Code
+
+![Chatbot Code](Screenshots/chatbot-code.png)
+
+### Chatbot Output
+
+![Chatbot Output](Screenshots/output.png)
+
+
 
 ## 💬 Sample Conversation
 
